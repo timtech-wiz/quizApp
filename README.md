@@ -1,4 +1,4 @@
- ![Screenshot_20230323-172849_1](https://user-images.githubusercontent.com/60903808/227272207-4b1dd929-e111-475d-828d-655f42d77e26.png)
+
 
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -28,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+ ![Screenshot_20230323-172849_1](https://user-images.githubusercontent.com/60903808/227272207-4b1dd929-e111-475d-828d-655f42d77e26.png)
+ 
+ ### Output
