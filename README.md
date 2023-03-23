@@ -1,3 +1,4 @@
+![Screenshot from 2023-03-23 17-24-59](https://user-images.githubusercontent.com/60903808/227271686-1fafe078-22ed-412f-8688-bc87ae7b976e.png)
 # quizApp
 
 This template should help get you started developing with Vue 3 in Vite.
